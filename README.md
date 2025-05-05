@@ -1,2 +1,2 @@
-# air-quality
-This is a mini peoject made to study and predict the air quality of delhi from 2018-24.
+This project focuses on the analysis and prediction of air quality in Delhi using historical AQI (Air Quality Index) data from 2018 to 2024. Leveraging data science and machine learning techniques, the project explores trends, seasonal patterns, and pollutant concentrations to gain insights into Delhi's air pollution levels. Predictive models are implemented to forecast future AQI levels, aiding in proactive environmental monitoring and decision-making. The repository includes data preprocessing steps, exploratory data analysis (EDA), model training and evaluation, and visualizations that highlight key findings and predictions.
+The dataset was taken from https://www.kaggle.com/datasets/iamchiragppatil/india-aqi-and-pollutant-levels-2018-2024?select=Delhi_AQI_Dataset.csv
